@@ -1,0 +1,41 @@
+body{
+      background-image: url("images/background.png");
+      margin: 0px;
+}
+
+.banner{
+      background-image: url("images/bannerbg.png");
+      text-align: center;
+     
+}
+h1{
+      text-align: center;
+}
+.overview{
+      text-align: right;
+      margin-right: 20%;
+      margin-left: 60%;
+      margin-bottom: 0px;
+      background-color: rgb(162, 201, 102);
+     
+     
+}
+
+#description{
+      position: relative;
+      left: 60%;  
+      background-color: rgb(162, 201, 102);
+      margin-right: 80%;
+      margin-top: 0px;
+      border: rgb(111, 112, 110);
+}
+
+dd{
+      margin-bottom: 2%;
+}
+.rotten{
+      float: left;
+      text-align: left;
+      margin-left: 20%;
+      background-image: url("images/rbg.png");
+}
