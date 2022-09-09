@@ -9,9 +9,9 @@ function myFunctionTest(expected, found) {
 function max(firstNum, secondNum){
   
       if (firstNum > secondNum) {
-         console.log(firstNum + " is larger than " + secondNum);
+         return firstNum;
       } else {
-          console.log(firstNum + " is less than " + secondNum);
+            return secondNum;
       }
       return;
     
