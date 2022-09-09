@@ -86,7 +86,7 @@ function reverse(str) {
       return text.toLowerCase();
   }
   console.log(reverse("jag testar"));
-  console.log("Expected output of reverse('jag testar') is 24  " + myFunctionTest("ratset gaj", reverse("jag testar"))); 
+  console.log("Expected output of reverse('jag testar') is 'ratset gaj' " + myFunctionTest("ratset gaj", reverse("jag testar"))); 
 
 
 function longestWord(arr) {
