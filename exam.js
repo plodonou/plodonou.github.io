@@ -17,7 +17,7 @@ function max(firstNum, secondNum){
     
   }
   // Lets set two numbers
-  console.log("Expected output of max(142,234) is 234  " + myFunctionTest(234, max(20, 10)));
+  console.log("Expected output of max(142,234) is 234  " + myFunctionTest(234, max(142, 234)));
 
 
 
