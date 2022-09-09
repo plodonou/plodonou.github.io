@@ -100,5 +100,5 @@ function longestWord(arr) {
 }
 
 
-console.log(longestStringForLoop(['boop', 'bloomburg', 'hello']));
+console.log(longestWord(['boop', 'bloomburg', 'hello']));
 
